@@ -1,6 +1,6 @@
 package org.bremsstrahlung.goml;
 
-import org.bremsstrahlung.goml.org.bremsstrahlung.goml.component.Component;
+import org.bremsstrahlung.goml.component.Component;
 
 import java.util.ArrayList;
 import java.util.List;

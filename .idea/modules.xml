@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GetOffMyLawn.iml" filepath="$PROJECT_DIR$/GetOffMyLawn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/goml/goml.iml" filepath="$PROJECT_DIR$/goml/goml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goml.iml" filepath="$PROJECT_DIR$/goml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goml/goml-goml.iml" filepath="$PROJECT_DIR$/goml/goml-goml.iml" />
     </modules>
   </component>
 </project>
